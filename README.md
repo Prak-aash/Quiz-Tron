@@ -1,4 +1,2 @@
 # Quiz-Tron
-
-A Fun Quiz about the movies,series,TV shows n etc...
-The user name and their scores are rendered to my realtime database.
+It Is A Fully Responsive Quiz Web App Which Has Only 10 Questions Related To Movies. The Username And Scores Of Player Are Automatically Stored In A Real-time Database.
